@@ -3,13 +3,13 @@
   <h1 align="center">Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life</h1>
   <h2 align="center">2025</h2>
 
-### [Paper](https://doi.org/10.48550/arXiv.2503.13558) | [Web](https://thinkx.ca/research/rul) | [Original data](https://data.matr.io/1/)
+### [Paper](https://doi.org/10.48550/arXiv.2503.13558) | [Web](https://okic.ca/research/rul) | [Original data](https://data.matr.io/1/)
 </div>
 
 ## BibTeX
 ```
 @article{RUL2025,
-  author = {Jingyuan Xue, Dongjing Jiang, Qingchong Jiao, Jianfei Zhang},
+  author = {Xue, Jingyuan and Zhao, Xiaozhen and Jiang, Dongjing and Jiao, Qingchong and EL Bouchtaoui, Redouane and Zhang, Flynnwell Jianfei},
   title = {Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life},
   journal = {arXiv: 2503.13558},
   year = {2025},
@@ -73,7 +73,7 @@ Dataset 8: <a href="https://data.matr.io/1/api/v1/file/5dcef152110002c7215b2c90/
 
 #### Clone the repo.
 ```
-git clone https://github.com/ThinkXca/RUL.git --recursive
+git clone https://github.com/OKIC-CA/RUL.git --recursive
 ```
 
 #### Environment setup 
