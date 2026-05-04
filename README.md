@@ -58,7 +58,7 @@ Dataset 8: <a href="https://data.matr.io/1/api/v1/file/5dcef152110002c7215b2c90/
 
 ## Acknowledgements
 
-<p>Many thanks to <a href="https://github.com/jianfeizhang">Jianfei Zhang</a> and <a href="https://github.com/qingchongjiao">Qingchong Jiao</a> for their contributions to the code.</p>
+<p>Many thanks to <a href="https://github.com/flynnwellzhang">Flynnwell Jianfei Zhang</a> and <a href="https://github.com/qingchongjiao">Qingchong Jiao</a> for their contributions to the code.</p>
 
 <p>Many thanks to <a href="https://github.com/Rasheed19/battery-survival">battery-survival</a>, Support provided for lithium battery data processing.</p>
 
